@@ -1,0 +1,23 @@
+{
+  "name": "cse341-project-contacts",
+  "version": "1.0.0",
+  "description": "W01 W02 Contacts Project for CSE-341 | BYU",
+  "homepage": "https://github.com/brunocelada/cse341-project-contacts#readme",
+  "bugs": {
+    "url": "https://github.com/brunocelada/cse341-project-contacts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunocelada/cse341-project-contacts.git"
+  },
+  "license": "ISC",
+  "author": "Bruno Celada",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
